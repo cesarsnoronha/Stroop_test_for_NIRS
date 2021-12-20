@@ -1,0 +1,10 @@
+1.7366 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+8.0636 	WARNING 	Couldn't measure a consistent frame rate.
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+8.4515 	WARNING 	t of last frame was 21.37ms (=1/46)
+8.4848 	WARNING 	t of last frame was 21.20ms (=1/47)
+8.5106 	WARNING 	t of last frame was 25.87ms (=1/38)
+8.5321 	WARNING 	t of last frame was 21.51ms (=1/46)
+9.7436 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
